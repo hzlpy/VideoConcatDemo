@@ -1,0 +1,3 @@
+file '/home/zhangle/input1.avi'
+file '/home/zhangle/input2.avi'
+file '/home/zhangle/input3.avi'
